@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aimanfatima&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<a href="https://github.com/aimanfatima/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanfatima&show_icons=true&include_all_commits=true&count_private=true&theme=swift&hide=contribs" alt="My github stats" /> 
-</a>
-<a href="https://github.com/aimanfatima/github-readme-statst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfatima&layout=compact&hide=css,html" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanfatima&show_icons=true&include_all_commits=true&count_private=true&theme=swift&hide=contribs" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfatima&layout=compact&hide=css,html" />
