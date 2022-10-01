@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanfatima&show_icons=true&include_all_commits=true&count_private=true&theme=swift&hide=contribs" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfatima&layout=compact&hide=css,html" />
+
+[![@aiman's Holopin board](https://holopin.io/api/user/board?user=aiman)](https://holopin.io/@aiman)
