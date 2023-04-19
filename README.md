@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
+
 🔭 I’m a Software Engineer currently working at Intuit Inc. 
 <!-- - 👯 I’m looking to collaborate on ML based projects -->
 <!--
