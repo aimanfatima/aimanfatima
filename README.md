@@ -4,7 +4,10 @@
 
 🔭 I’m an MS CS Grad at UC Davis 
 
-At present, I'm researching with Prof. Joel Porquet in the Computer Science Education Lab at UC Davis. My current project, lupBook, is an innovative, completely offline interactive textbook framework that operates entirely client-side, enabling access to free interactive textbooks without the need for internet connectivity. I am also serving as a teaching assistant for EDU110 (Educational Psychology) course and really enjoying it!
+At present, I'm researching with Prof. Joel Porquet in the Computer Science Education Lab at UC Davis. My current project, lupBook, is an innovative, completely offline interactive textbook framework that operates entirely client-side, to which I am adding feature like data persistence, including autosaving responses, and enabling export/import functionality to restore student work. 
+<br>
+<br>
+I am also serving as a teaching assistant for EDU110 (Educational Psychology) course and really enjoying it!
 
 Recently I worked on this project [repo-table-of-contents-generator](https://github.com/aimanfatima/repo-table-of-contents-generator). Please have a look and see if you find it useful.
 
