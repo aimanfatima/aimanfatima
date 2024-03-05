@@ -9,7 +9,7 @@ At present, I'm researching with Prof. Joel Porquet in the [Computer Science Edu
 <br>
 I am also serving as a teaching assistant for EDU110 (Educational Psychology) course and really enjoying it!
 
-Recently I worked on this project [repo-table-of-contents-generator](https://github.com/aimanfatima/repo-table-of-contents-generator). Please have a look and see if you find it useful.
+Recently I worked on this project named [indexgen](https://github.com/aimanfatima/indexgen). Please have a look and see if you find it useful.
 
 <!-- - 👯 I’m looking to collaborate on ML based projects -->
 <!--
