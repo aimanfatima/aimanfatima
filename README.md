@@ -11,11 +11,11 @@ I am also serving as a teaching assistant for EDU110 (Educational Psychology) co
 
 Recently I worked on this project named [indexgen](https://github.com/aimanfatima/indexgen). Please have a look and see if you find it useful.
 
+Check out my Medium blogs at https://medium.com/@aiman.fatima. I recently started writing, and as a newbie, I would love some feedback on them.
+
 <!-- - 👯 I’m looking to collaborate on ML based projects -->
 <!--
 **aimanfatima/aimanfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Check out my Medium blogs at https://medium.com/@aiman.fatima. I recently started writing, and as a newbie, I would love some feedback on them.
 
 Here are some ideas to get you started:
 
