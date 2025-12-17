@@ -2,32 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
 
-🔭 I’m an MS CS Grad at UC Davis 
 
-At present, I'm researching with Prof. Joel Porquet in the [Computer Science Education Lab](https://luplab.cs.ucdavis.edu/) at UC Davis. My current project, [lupBook](https://gitlab.com/luplab/lupbook), is an innovative, completely offline interactive textbook framework that operates entirely client-side, to which I am adding feature like data persistence, including autosaving responses, and enabling export/import functionality to restore student work. 
-<br>
-<br>
-I am also serving as a teaching assistant for EDU110 (Educational Psychology) course and really enjoying it!
 
-Recently I worked on this project named [indexgen](https://github.com/aimanfatima/indexgen). Please have a look and see if you find it useful.
+Check this project of mine [indexgen](https://github.com/aimanfatima/indexgen). Please have a look and see if you find it useful.
 
-<!--Check out my [Medium blogs](https://medium.com/@aimannnn). I recently started writing, and as a newbie, I would love some feedback on them.-->
 
-<!-- - 👯 I’m looking to collaborate on ML based projects -->
-<!--
-**aimanfatima/aimanfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Programming Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -39,13 +18,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aimanfatima&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<!-- 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimanfatima&show_icons=true&include_all_commits=true&count_private=true&theme=swift&hide=contribs" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfatima&layout=compact&hide=css,html" />
-
-[![@aiman's Holopin board](https://holopin.io/api/user/board?user=aiman)](https://holopin.io/@aiman)
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=aimanfatima&hide_border=true)](https://git.io/streak-stats)
